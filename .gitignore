@@ -1,5 +1,8 @@
 # Kaggle starting data
 data/ 
+
+*.mp4
+models/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
